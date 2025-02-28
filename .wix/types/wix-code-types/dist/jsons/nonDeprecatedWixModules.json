@@ -1,0 +1,11 @@
+{
+	"page": [],
+	"backend": [
+		"wix-http-functions",
+		"wix-router"
+	],
+	"public": [
+		"wix-http-functions",
+		"wix-router"
+	]
+}

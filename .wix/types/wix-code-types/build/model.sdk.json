@@ -1,0 +1,395 @@
+{
+    "packages": {
+        "@wix/analytics-data": {
+            "name": "@wix/analytics-data",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/analytics-session": {
+            "name": "@wix/analytics-session",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/async-jobs": {
+            "name": "@wix/async-jobs",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/activity-counters": {
+            "name": "@wix/activity-counters",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/app-management": {
+            "name": "@wix/app-management",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/auth-management": {
+            "name": "@wix/auth-management",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/automations": {
+            "name": "@wix/automations",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/billing": {
+            "name": "@wix/billing",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/blog": {
+            "name": "@wix/blog",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/bookings": {
+            "name": "@wix/bookings",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/site-bookings": {
+            "name": "@wix/site-bookings",
+            "scopes": [
+                "frontend"
+            ]
+        },
+        "@wix/business-tools": {
+            "name": "@wix/business-tools",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/calendar": {
+            "name": "@wix/calendar",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/captcha": {
+            "name": "@wix/captcha",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/categories": {
+            "name": "@wix/categories",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/comments": {
+            "name": "@wix/comments",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/crm": {
+            "name": "@wix/crm",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/site-crm": {
+            "name": "@wix/site-crm",
+            "scopes": [
+                "frontend"
+            ]
+        },
+        "@wix/dashboard-management": {
+            "name": "@wix/dashboard-management",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/data": {
+            "name": "@wix/data",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/data-extension-schema": {
+            "name": "@wix/data-extension-schema",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/ecom": {
+            "name": "@wix/ecom",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/site-ecom": {
+            "name": "@wix/site-ecom",
+            "scopes": [
+                "frontend"
+            ]
+        },
+        "@wix/email-marketing": {
+            "name": "@wix/email-marketing",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/email-subscriptions": {
+            "name": "@wix/email-subscriptions",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/events": {
+            "name": "@wix/events",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/site-events": {
+            "name": "@wix/site-events",
+            "scopes": [
+                "frontend"
+            ]
+        },
+        "@wix/forms": {
+            "name": "@wix/forms",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/forum": {
+            "name": "@wix/forum",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/groups": {
+            "name": "@wix/groups",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/inbox": {
+            "name": "@wix/inbox",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/loyalty": {
+            "name": "@wix/loyalty",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/marketing": {
+            "name": "@wix/marketing",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/marketing-consent": {
+            "name": "@wix/marketing-consent",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/marketing-tags": {
+            "name": "@wix/marketing-tags",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/media": {
+            "name": "@wix/media",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/members": {
+            "name": "@wix/members",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/site-members": {
+            "name": "@wix/site-members",
+            "scopes": [
+                "frontend"
+            ]
+        },
+        "@wix/multilingual": {
+            "name": "@wix/multilingual",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/notifications": {
+            "name": "@wix/notifications",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/pricing-plans": {
+            "name": "@wix/pricing-plans",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/site-pricing-plans": {
+            "name": "@wix/site-pricing-plans",
+            "scopes": [
+                "frontend"
+            ]
+        },
+        "@wix/pro-gallery": {
+            "name": "@wix/pro-gallery",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/redirects": {
+            "name": "@wix/redirects",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/reports": {
+            "name": "@wix/reports",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/restaurants": {
+            "name": "@wix/restaurants",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/reviews": {
+            "name": "@wix/reviews",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/secrets": {
+            "name": "@wix/secrets",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/stores": {
+            "name": "@wix/stores",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/site-stores": {
+            "name": "@wix/site-stores",
+            "scopes": [
+                "frontend"
+            ]
+        },
+        "@wix/table-reservations": {
+            "name": "@wix/table-reservations",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/tags": {
+            "name": "@wix/tags",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/urls": {
+            "name": "@wix/urls",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/portfolio": {
+            "name": "@wix/portfolio",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/site-plugins": {
+            "name": "@wix/site-plugins",
+            "scopes": [
+                "backend"
+            ]
+        },
+        "@wix/location": {
+            "name": "@wix/location",
+            "scopes": [
+                "frontend"
+            ]
+        },
+        "@wix/site-mobile": {
+            "name": "@wix/site-mobile",
+            "scopes": [
+                "frontend"
+            ]
+        },
+        "@wix/site-navigate-mobile": {
+            "name": "@wix/site-navigate-mobile",
+            "scopes": [
+                "frontend"
+            ]
+        },
+        "@wix/site-pay": {
+            "name": "@wix/site-pay",
+            "scopes": [
+                "frontend"
+            ]
+        },
+        "@wix/site-realtime": {
+            "name": "@wix/site-realtime",
+            "scopes": [
+                "frontend"
+            ]
+        },
+        "@wix/site-seo": {
+            "name": "@wix/site-seo",
+            "scopes": [
+                "frontend"
+            ]
+        },
+        "@wix/site-site": {
+            "name": "@wix/site-site",
+            "scopes": [
+                "frontend"
+            ]
+        },
+        "@wix/site-storage": {
+            "name": "@wix/site-storage",
+            "scopes": [
+                "frontend"
+            ]
+        },
+        "@wix/site-window": {
+            "name": "@wix/site-window",
+            "scopes": [
+                "frontend"
+            ]
+        },
+        "@wix/essentials": {
+            "name": "@wix/essentials",
+            "scopes": [
+                "backend",
+                "frontend"
+            ]
+        }
+    }
+}
